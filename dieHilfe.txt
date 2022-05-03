@@ -1,0 +1,82 @@
+How to deploy
+
+git add .
+git commit -am "new info"
+git push heroku main
+-----------------------------------------------------------------------------
+if you change the username of github 
+you have to change the origin:
+
+git remote -v
+git remote set-url origin https://github.com/robertogaray/wakushito.git
+heroku git:remote -a "wakushito"
+git push heroku main
+git remote -v
+
+info
+https://www.youtube.com/watch?v=Vcx8ydOpSWM
+https://www.youtube.com/watch?v=Qp5BY7RZXyg
+https://www.youtube.com/watch?v=aUW5GAFhu6s&t=224s
+
+-----------------------------------------------------------------------------
+git status
+git add remote origin https://github.com/robertogaray/portfolio.git
+
+
+reset firefox = CTRL + F5
+
+firefox require access keys  "ALT + SHIT + D"
+https://en.wikipedia.org/wiki/Access_key
+
+-----------------------------------------------------------------------------
+ctrl + ñ = terminal
+ctrl + ? = indent
+-----------------------------------------------------------------------------
+
+// Ayuda sobre los comandos
+git help
+
+// Iniciar un nuevo repositorio
+// Crear la carpeta oculta .git
+git init
+
+// Solo muestra los archivos modificados
+git status -s
+
+// Crear commit (fotografía del proyecto en ese momento)
+git commit -m "primer commit"
+
+// Agregar todos los archivos para que esté pendiente de los cambios
+git add .
+
+// Crea una nueva rama
+git branch nombreRama
+
+// Nos muestra en que rama estamos
+git branch
+
+// Nos movemos a la nueva rama
+git checkout nombreRama
+
+// Nos movemos a la nueva rama
+git merge nombreRama
+
+// Crear un tags
+git tag versionAlpha -m "versión alpha"
+
+// Listar tags
+git tag
+
+
+
+git status -s
+git add .
+git commit -m "primer commit"
+git remote add origin https://github.com/robertogaray/nuevaapp.git
+git push -u origin master
+
+
+
+
+
+
