@@ -20,9 +20,14 @@ https://www.youtube.com/watch?v=aUW5GAFhu6s&t=224s
 
 -----------------------------------------------------------------------------
 git status
-git add remote origin https://github.com/robertogaray/portfolio.git
+git init
+git remote add origin https://github.com/robertogaray/portfolio.git
+git remote
+git remote -v
+git push -u origin main
 
 
+-----------------------------------------------------------------------------
 reset firefox = CTRL + F5
 
 firefox require access keys  "ALT + SHIT + D"
