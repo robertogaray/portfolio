@@ -24,10 +24,21 @@ git init
 git remote add origin https://github.com/robertogaray/portfolio.git
 git remote
 git remote -v
-git push -u origin main
+git add -A
+git commit -m "YourMessage"
+git push -u origin master
+heroku git:remote -a robertogaray
+git push heroku master
 
+help
+https://www.youtube.com/watch?v=KDt01U859Ik
 
 -----------------------------------------------------------------------------
+check gyno hours
+heroku ps -a robertogaray
+https://help.heroku.com/8E2A2AIU/how-do-free-dyno-hours-work
+-----------------------------------------------------------------------------
+
 reset firefox = CTRL + F5
 
 firefox require access keys  "ALT + SHIT + D"
