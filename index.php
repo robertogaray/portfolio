@@ -56,6 +56,23 @@ Little game to introduce students to verbs. Aim for German, Chinese, English and
 <a href="https://drive.google.com/file/d/15r54lRK56-OgP0ed51O2HYOdZJXDYn7a/view?usp=sharing">Free Download for win10 64bits</a> 
 <BR>
 <a href="https://drive.google.com/file/d/1C4YZyLloGYcIMHtjwqX7t47aJLBv1ZL9/view?usp=sharing">Userguide</a> 
+<BR>
+<BR>
+<BR>
+</b>Specs:</b>
+<BR>
+<blockquote>
+OS: win10
+<BR>
+System Type: 64 bit operating system, x56-based processor
+<BR>
+Processor: Intel(R) Core(TM) I3-10105 CPU @ 3.70GHz
+<BR>
+Graphic Card: intel(R) UHD Graphics 630
+<BR>
+Installed RAM: 4.00 GB
+</blockquote>
+<BR>
 </p>
 
 
@@ -69,6 +86,16 @@ Little game to introduce students to verbs. Aim for German, Chinese, English and
 <!------------------------------------------------>
 
 
+
+<div id="DivArticlesMainBox">
+<div id="textBox">
+<article>
+<center>
+<a href="https://info.flagcounter.com/V4Ps"><img src="https://s11.flagcounter.com/count2/V4Ps/bg_F5E5D0/txt_A8967E/border_A8967E/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</center>
+</article>
+</div><!------------------<div id="textBox">------------------------------>
+</div><!------------------<div id="DivArticlesMainBox">------------------------------>
 
 
 </main>
