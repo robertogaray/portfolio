@@ -40,38 +40,12 @@ Maybe some of my free projects may help you. Drop me an email gedachtnisspielefa
 
 <h2>Projects</h3>
 <p>
-<b>Wakushito</b>
-<BR>
-<a href="https://wakushito.herokuapp.com/">Personal worksheet manager</a> for schoolteachers 
-<BR>
-</p>
 
-
-
-<p>
-<b>Das Universum der neuen Wörter</b>
+<a href="https://wakushito.herokuapp.com/">Wakushito</a> - Personal worksheet manager for schoolteachers 
 <BR>
-Little game to introduce students to verbs. Aim for German, Chinese, English and Spanish learners. Great for a session starter.
+<a href="games.php">Free educative games 
 <BR>
-<a href="https://drive.google.com/file/d/15r54lRK56-OgP0ed51O2HYOdZJXDYn7a/view?usp=sharing">Free Download for win10 64bits</a> 
-<BR>
-<a href="https://drive.google.com/file/d/1C4YZyLloGYcIMHtjwqX7t47aJLBv1ZL9/view?usp=sharing">Userguide</a> 
-<BR>
-<BR>
-<BR>
-</b>Specs:</b>
-<BR>
-<blockquote>
-OS: win10
-<BR>
-System Type: 64 bit operating system, x56-based processor
-<BR>
-Processor: Intel(R) Core(TM) I3-10105 CPU @ 3.70GHz
-<BR>
-Graphic Card: intel(R) UHD Graphics 630
-<BR>
-Installed RAM: 4.00 GB
-</blockquote>
+<a href="labphp/phpprojects.php">Little Php Projects</a> for beginners
 <BR>
 </p>
 
@@ -105,3 +79,8 @@ Installed RAM: 4.00 GB
 <footer>
   <?php include "footer01.php" ?>
 </footer>
+
+<!----------------------------------------------------------------------------------------->
+
+</body>
+</html>
