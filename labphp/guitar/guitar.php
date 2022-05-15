@@ -87,20 +87,20 @@ background-color: mediumspringgreen ;
 <div style="overflow-x:auto;">
 <table style="width:100%">
   <tr>
-  <th>MAJOR SCALE</th>
-  <th>minor scale</th>
-  <th>NOTE</th>
-  <th>NOTE</th>
-  <th>NOTE</th>
-  <th>NOTE</th>
-  <th>NOTE</th>
-  <th>NOTE</th>
-  <th>NOTE</th>
+  <th>Scale</th>
+  <th>Scale</th>
+  <th>1</th>
+  <th>2</th>
+  <th>3</th>
+  <th>4</th>
+  <th>5</th>
+  <th>6</th>
+  <th>7</th>
   </tr>
 
   <tr>
-  <td>C MAJ SCALE</td>
-  <td>Am scale</td>
+  <td>C MAJ</td>
+  <td>Am</td>
   <td> C </td>
   <td> D </td>
   <td> E </td>
@@ -111,8 +111,8 @@ background-color: mediumspringgreen ;
   </tr>
 
   <tr>
-  <td>G MAJ SCALE</td>
-  <td>Em scale</td>
+  <td>G MAJ</td>
+  <td>Em</td>
   <td> C </td>
   <td> D </td>
   <td> E </td>
@@ -123,8 +123,8 @@ background-color: mediumspringgreen ;
   </tr>
 
   <tr>
-  <td>D MAJ SCALE</td>
-  <td>Bm scale</td>
+  <td>D MAJ</td>
+  <td>Bm</td>
   <td> <SPAN CLASS="highlight">C#</SPAN> </td>
   <td> D </td>
   <td> E </td>
@@ -135,8 +135,8 @@ background-color: mediumspringgreen ;
   </tr>
 
   <tr>
-  <td>A MAJ SCALE</td>
-  <td>F#m scale</td>
+  <td>A MAJ</td>
+  <td>F#m</td>
   <td> <SPAN CLASS="highlight">C#</SPAN> </td>
   <td> D </td>
   <td> E </td>
@@ -147,8 +147,8 @@ background-color: mediumspringgreen ;
   </tr>
 
   <tr>
-  <td>E MAJ SCALE</td>
-  <td>C#m scale</td>
+  <td>E MAJ</td>
+  <td>C#m</td>
   <td>  <SPAN CLASS="highlight">C#</SPAN> </td>
   <td> <SPAN CLASS="highlight">D#</SPAN> </td>
   <td> E </td>
@@ -159,8 +159,8 @@ background-color: mediumspringgreen ;
   </tr>
 
   <tr>
-  <td>B MAJ SCALE</td>
-  <td>G#m scale</td>
+  <td>B MAJ</td>
+  <td>G#m</td>
   <td>  <SPAN CLASS="highlight">C#</SPAN> </td>
   <td> <SPAN CLASS="highlight">D#</SPAN> </td>
   <td> E </td>
@@ -171,8 +171,8 @@ background-color: mediumspringgreen ;
   </tr>
 
   <tr>
-  <td>F MAJ SCALE</td>
-  <td>Dm scale</td>
+  <td>F MAJ</td>
+  <td>Dm</td>
   <td> C </td>
   <td> D </td>
   <td> E </td>
