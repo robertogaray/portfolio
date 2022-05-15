@@ -35,6 +35,7 @@
 <li><a href="003randomnumber.php?num1=1&num2=10&clickRandom=Sehen+Sie+das+mal+an">Die Zufallszahl - Random number generator</a> </li>
 <li><a href="004randomname.php?clickRandom=Drop+a+name!">Random Cat Name Generator</a> </li>
 <li><a href="005notepad.php">Notepad</a> </li>
+<li><a href="guitar/guitar.php">Guitar, Bass and Keyboard Scale Fretboard Finder</a> </li>
 <li><a href="">Hangman</a> </li>
 <li><a href="">Rock Paper Scissors (Chinese hand game)</a> </li>
 <li><a href="">Tic-tac-toe</a> </li>
