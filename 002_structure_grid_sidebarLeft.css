@@ -1,0 +1,70 @@
+:root{
+    /* color variables*/
+    --clr-primary: #9f9b74;
+    --clr-primary-hover: #9f9b74;
+    --clr-gray100: #f0f7f8;
+    --clr-gray200: #cfd9dc;
+    --clr-elegantGreen: #004236;
+    --clr-elegantPurple: #57527e;
+    --clr-topLogoBackground: #898f98;
+    --clr-elegantBlue: #00344d;
+}
+
+
+.sidebarBodyLeft{
+    word-wrap: break-word;
+    background-color: var(--clr-elegantPurple);
+    height: 100%;
+    margin: 0;
+    padding: 2px;
+    width: auto;
+    overflow-y: scroll; 
+
+}
+
+
+
+
+.sidebarBox2 {
+    background: white;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+
+  
+}
+
+
+
+.sidebarBox h1 {
+font-size: 15px;
+font-variant-caps: small-caps;
+
+}
+
+
+
+.image_sidebar_responsive_ad{
+    border: 2px solid rgb(255, 255, 255);  
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    cursor: pointer;
+    opacity: 1;
+    
+  
+ 
+
+    
+}
+
+
+.image_sidebar_responsive_ad:hover{
+    opacity: 0.7;
+    transition: .5s ease;
+  
+
+}

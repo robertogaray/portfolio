@@ -1,0 +1,53 @@
+:root{
+    /* color variables*/
+    --clr-primary: #9f9b74;
+    --clr-primary-hover: #9f9b74;
+    --clr-gray100: #f0f7f8;
+    --clr-gray200: #cfd9dc;
+    --clr-elegantGreen: #004236;
+    --clr-elegantPurple: #57527e;
+    --clr-topLogoBackground: #898f98;
+}
+
+.main_content{
+    background-color: var(--clr-topLogoBackground);
+    height: 100%;
+    margin: 0;
+    padding: 10px;
+    width: auto;
+    overflow-y: scroll;  
+}
+
+.article_flex_container{
+background-color: white;
+padding: 10px;
+border: 2px solid black;
+font-size: 14pt;
+line-height: 1.5;
+margin-bottom: 10px;
+} 
+
+
+.image_left_inside_article_flex_container{
+    border: 2px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;  
+    width: 200px;
+    height: auto;
+    opacity: 1;
+}
+
+.image_left_inside_article_flex_container:hover{
+    opacity: 0.7;
+}
+
+.article_flex_container h1{
+    font-variant-caps: small-caps;
+}
+
+
+.article_flex_container code{
+    background-color: #57527e;
+    color: white;
+}

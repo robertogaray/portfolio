@@ -1,86 +1,19 @@
-<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
 <head>
-<?php include "includehead.php" ?>
+<?php include "include_html_meta_tags.php" ?>
 </head>
-<body>
+
+<div id="SUPER_MASTER_GRID_CONTAINER_FULL_SCREEN_BODY"><!-----------SUPER_MASTER_GRID_CONTAINER_FULL_SCREEN_BODY----------------------------------------------------------------->
+
+<nav id="MASTER_GRID_nav"><?php include "structure_grid_navbar.php" ?></nav>
+<div id="MASTER_GRID_contentMiddle"><?php include "structure_grid_contentMiddle.php" ?></div>
+<div id="MASTER_GRID_sidebarRight"><?php include "structure_grid_sidebarRight.php" ?></div>
+<div id="MASTER_GRID_sidebarLeft"><?php include "structure_grid_sidebarLeft.php" ?></div>
+<footer id="MASTER_GRID_footer"><?php include "structure_grid_footer.php" ?></footer>
 
 
-
-<header>
-<?php include "header01.php" ?>
-</header>
-
-
-<main>
-
-<!----MAIN PAGE------------------------------------------->
- 
-
-<div id="DivArticlesMainBox">
-<div id="textBox">
-<article>
-<p>Welcome to my website. One of my hobbies is learning different kinds of languages like human languages, computer languages,  etc.
-<BR>
-Maybe some of my free projects may help you. Drop me an email gedachtnisspielefabrik@protonmail.com
-</p>
-
-<h2>Certificates</h3>
-<a href="https://www.freecodecamp.org/robertogaray">freeCodeCamp</a> 
-<BR>
-<HR>
-
-<h2>Links</h3>
-<a href="https://github.com/robertogaray">Github</a> 
-<BR>
-<a href="https://robertogaray.itch.io/">Itch.io</a> 
-
-
-<HR>
-
-<h2>Projects</h3>
-<p>
-
-<a href="https://wakushito.herokuapp.com/">Wakushito</a> - Personal worksheet manager for schoolteachers 
-<BR>
-<a href="games.php">Free educative games 
-<BR>
-<a href="labphp/phpprojects.php">Little Php Projects</a> for beginners
-<BR>
-</p>
-
-
-<BR>
-</article>
-</div><!------------------<div id="textBox">------------------------------>
-</div>
-
-
-
-<!------------------------------------------------>
-
-
-
-<div id="DivArticlesMainBox">
-<div id="textBox">
-<article>
-<center>
-<a href="https://info.flagcounter.com/V4Ps"><img src="https://s11.flagcounter.com/count2/V4Ps/bg_F5E5D0/txt_A8967E/border_A8967E/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</center>
-</article>
-</div><!------------------<div id="textBox">------------------------------>
-</div><!------------------<div id="DivArticlesMainBox">------------------------------>
-
-
-</main>
-
-<!----------------------------------------------------------------------------------------->
-
-<footer>
-  <?php include "footer01.php" ?>
-</footer>
-
-<!----------------------------------------------------------------------------------------->
-
+</div><!-----------SUPER_MASTER_GRID_CONTAINER_FULL_SCREEN_BODY----------------------------------------------------------------->
 </body>
 </html>

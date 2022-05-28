@@ -1,0 +1,114 @@
+:root{
+    /* color variables*/
+    --clr-primary: #9f9b74;
+    --clr-primary-hover: #9f9b74;
+    --clr-gray100: #f0f7f8;
+    --clr-gray200: #cfd9dc;
+    --clr-elegantGreen: #004236;
+    --clr-elegantPurple: #57527e;
+    --clr-topLogoBackground: #898f98;
+}
+
+
+
+/*GRID NAV BOX PROPERTIES
+Here, i define the space which element will occupy
+*/
+
+#navbar_main_grid_box{
+    background-color: rgb(255, 0, 0);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:  1fr ;
+    height: 100vh; /* you need to add this PARENT REFERENCE before using  grid-template-row */
+    grid-template-rows: 4%  6%;
+    grid-template-areas:
+    "navbar_top_space_for_ads_logo"
+    "navbar_links_space"
+    ;  
+
+
+}
+
+/*this is the top of the website
+here I can add a logo or some ads
+*/
+#navbar_top_space_for_ads_logo{
+    background-color: black;
+    grid-area:  navbar_top_space_for_ads_logo;
+}
+
+/*this is where the navbar goes*/
+#navbar_links_space{
+    background-color: var(--clr-elegantGreen);
+    grid-area:  navbar_links_space;
+
+
+
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;   
+}
+
+
+/*------STYLE TOP LOGO---------------------------------------------------------------------*/
+
+.main_logo_space{
+    background-color: var(--clr-topLogoBackground);
+    margin: 0;
+    padding: 0.2rem 0;
+    display: flex; /* layout content horizontally*/
+    justify-content: flex-end; /*position elements to the left side of the acreen*/
+    align-items: center;
+}
+
+
+.main_logo_space_text{
+    margin-right: 2rem;
+    font-size: 20px;
+    text-decoration: none;
+    color: azure;
+    transition: all ease-in;
+    font-variant-caps: small-caps;
+}
+
+/*------STYLE NAV LINKS---------------------------------------------------------------------*/
+
+
+
+.scrollmenu{
+    background-color: var(--clr-elegantGreen);
+    margin: 0;
+    padding: 1rem 0;
+    display: flex; /* layout content horizontally*/
+    justify-content: flex-start; /*position elements to the right side of the acreen so I ensure the scrollbar works*/
+    align-items: center;
+
+    
+}
+
+.nav_item{
+    list-style: none; 
+    margin-right: 2rem; 
+    flex: 0 0 auto;
+    text-decoration: none;
+    color: azure;
+    transition: all ease-in;
+    font-variant-caps: small-caps;
+}
+
+
+
+
+.nav_item:hover {
+    text-decoration: none;
+    color: var(--clr-primary-hover);
+
+}
+
+
+.nav_item:first-child{
+    margin-right: auto; /* move elemente to the right side of the page */
+    margin-left: 1rem;
+    padding-right: 2rem; /* fix the problem when the window is schrinked */
+}

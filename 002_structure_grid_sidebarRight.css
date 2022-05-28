@@ -1,0 +1,79 @@
+:root{
+    /* color variables*/
+    --clr-primary: #9f9b74;
+    --clr-primary-hover: #9f9b74;
+    --clr-gray100: #f0f7f8;
+    --clr-gray200: #cfd9dc;
+    --clr-elegantGreen: #004236;
+    --clr-elegantPurple: #57527e;
+    --clr-topLogoBackground: #898f98;
+}
+
+
+.sidebarBody{
+    word-wrap: break-word;
+    background-color: var(--clr-elegantPurple);
+    height: 100%;
+    margin: 0;
+    padding: 2px;
+    width: auto;
+    overflow-y: scroll;  
+}
+
+.sidebarBox {
+    background: var(--clr-topLogoBackground);
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+.sidebarBox h1 {
+font-size: 15px;
+font-variant-caps: small-caps;
+}
+
+
+.sidebarBox a:hover {
+    cursor: pointer;
+    color: #004236;
+    font-style: oblique;
+
+    }
+    
+
+.nav_list_sidebar {
+    margin: 0;
+    padding: 0rem 0;
+
+}
+
+
+
+.nav_list_sidebar_item{
+    list-style: none;
+    margin-bottom: 0.25rem;
+    list-style-type: square;
+
+}
+
+.nav_list_sidebar_item a{
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
+
+.nav_list_sidebar_item :hover{
+    text-decoration: none;
+    cursor: pointer;
+    color: #004236;
+    
+}
+
+
+.nav_list_sidebar_item:hover{
+    text-decoration: none;
+   
+}
