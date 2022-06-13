@@ -17,6 +17,28 @@
 
 <!--box content-->
 <div class="sidebarBox">
+<h1>Content</h1>
+<ul class="nav_list_sidebar">
+
+<li class="nav_list_sidebar_item">
+<a href="index.php?page=englishgrammar&exercise=list">English Grammar</a>
+</li>
+
+<li class="nav_list_sidebar_item">
+<a href="index.php?page=englishphonetics">English Phonetics</a>
+</li>
+
+
+
+</ul>
+</div>
+<!--box content-->
+
+
+
+
+<!--box content-->
+<div class="sidebarBox">
 <h1>English Dict</h1>
 <ul class="nav_list_sidebar">
 
