@@ -1,0 +1,57 @@
+/*
+PARTES DE LA SESION
+
+1 DATOS INFORMATIVOS
+        INSTITUCIÓN EDUCATIVA: HV
+        LUGAR: HUANUCO
+        DOCENTE: ROBERTO GARAY MEDRANO
+        GRADO: 1RO - VI CICLO
+        NIVEL: SECUNDARIA
+        AREA: INGLES
+        FECHA:
+
+2 APRENDIZAJE ESPERADO
+
+3 PROPOSITO
+        TEXTO DEL PROPOSITO
+        MATERIALES
+
+4 APRENDIZAJES ESPERADOS
+        AREA
+        COMPETENCIA
+        CAPACIDAD
+        INDICADOR
+
+5 SECUANCIAS DIDACTICAS
+
+INICIO
+    MATERIALES
+    TIEMPO
+    El profesor explica la experiencia de aprendizaje
+    El profesor explica el proposito
+    El profesor explica las competencias
+    El profesor explica las los criterios de evaluación para que los estudiantes reflexiones sobre su proceso de metacógnicion y puedan auto regular su aprendizaje
+    MOTIVACIÓN El docente explica  sobre el “Permanente Error Constructivo”, para que los alumnos se sientan libres de cometer errores durante su proceso de aprendizaje sin el temor de ser descalificados.
+    RECOJO DE SABERES PREVIOS El docente hace recojo de saberes previos por medio de preguntas, evidenciando los errores de forma acertiva.
+
+DESARROLLO
+    MATERIALES
+    TIEMPO
+    El profesor plantea el producto o evidencia de aprendizaje tangible o intangible
+    El profesor muestra los procesos didácticos o estrategias de las rutas de aprendizaje u otras
+    Los alumnos desarrollan la ficha basada estratégias didacticas propuestas por el docente
+
+FINAL
+    MATERIALES
+    TIEMPO
+    El docente realiza preguntas de para que los estudiantes participen
+    El docente retroaliemta a los estudiantes de forma acertiva
+    Los estudiantes autorregulan su aprendizaje por medio de feed back
+    El docente realiza preguntas de metacognición basado en la lista de preguntas
+    Los estudiantes reflexionan sobre la forma en que han aprendido.
+    Los estudiantes reflexionan sobre la forma en que autoregulan su aprendizaje
+
+
+
+  
+*/
